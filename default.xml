@@ -439,7 +439,6 @@
 
   <!--vendors-->
   <project path="vendor/du" name="vendor_du" remote="du" revision="du44" />
-  <project path="vendor/htc/ace" name="Mustaavalkosta/android_vendor_htc_ace" remote="github" revision="cm-11.0" />
   
   <!--htc ace-->
   <project path="kernel/htc/ace" name="Mustaavalkosta/htc7x30-3.0" remote="github" revision="cm-11.0" />
